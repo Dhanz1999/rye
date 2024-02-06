@@ -6,6 +6,7 @@
 #   features: []
 #   all-features: false
 #   with-sources: false
+#   dummy-mode: true
 
 -e file:.
 certifi==2023.5.7
